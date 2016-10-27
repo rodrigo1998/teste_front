@@ -1,0 +1,6 @@
+node_modules/
+vendor/
+lib/
+.idea/
+.buildpath
+.project
