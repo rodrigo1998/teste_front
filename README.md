@@ -32,7 +32,7 @@ Gulp
 ##Instruções
 
 
-Realize o commit apenas quando finalizar o teste, e faça o mesmo em um branch com o seu nome.
+Faça o fork do projeto. Quando finalizar nos envie um pull request.
 
 
 
