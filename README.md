@@ -32,7 +32,7 @@ Gulp
 ##Instruções
 
 
-Faça o fork do projeto. Quando finalizar nos envie um pull request.
+Faça o fork do projeto, cria um branch com seu nome. Quando finalizar nos envie um pull request.
 
 
 
