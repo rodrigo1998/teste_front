@@ -1,0 +1,548 @@
+.icone1 {
+	padding: 10px;
+	margin-right:-15px;
+}
+
+.clicado {
+     border: 1px solid #396aa0;
+    border-width: 0 0 1px;   
+}
+
+#imgMulher
+ {
+    position: absolute;
+    height: 500px; 
+     top: 3657px;
+     left:1006px;
+    width: 544px; 
+     
+} 
+
+ .espacoBlog{
+     margin-top:10px;   
+    }
+
+.formataBlog{
+font-family: Open Sans,sans-serif;
+    color: 525252;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: justify;
+    padding-top:60px
+}
+
+.back-mulher{
+ background-image: url(https://lh3.googleusercontent.com/4p54GnTVUk38hbXYCLIPYHvdg3OZv9mNvwxdlVYTotqy8yV2QRCMUMQQ8JLcID-lzW_ZTFPrcDur_VqZv3WBiu4pX7FBcDgkJC1JogVCh7-60LuwmoIFJ7Jvn430ZsAn-4MgiErZbOK7QzxaC9BIAUElDQRmpHn5uGDJrtb3sg_2Ovz4CO4xpx0bD_gm_rMh9N5LnzBXkowd3Ozbvj5ldUxeLIV8fIKnbWr1HYirVdWEVB72vW6PwiYPnui--Y9xl2NTR4qik8W6PjB5wS8avTUEn-0N8FZzAxKd6_J8qauuOR_pIjbfs7ozgY1RVMHmPj_zERG2QqvEne4ORhfNoTPL6MXvlW9JsZi50dh68zW0KS6RpPULfsVvREjd5JYqnnbB3jyoV21-z3ViZH5BAVPbjnY6r82jXcZA_FIntiNloCPxzrShJ0ldkQ77ICV7KJJDzNBt1_YiROmb2bJywpstvm5lqvWAlvsXB53wmSm8byg7DizPEhxa_zdVbrdf_VIB_-Z0EopjIaruQ3BcnrLamKqoXAPD2SB8xNVrLAjyaTn2gV1FrLiNyOB2AHQrV2OZtXS4w1c-ckgNDSDKTcdZJz4mAMrZggIXVaCsNSc4iLE1=w1583-h558-no); background-repeat: no-repeat;
+  height: 100%;
+    width: 100%
+}
+
+
+.saibamais{
+      font-family: Open Sans,sans-serif;
+    font-size: 22px;
+    padding: 15px 27px;
+    font-weight: 700;
+    width: 185px;
+    height: 60px;
+    background-color: #396aa0;
+    color: #fff;
+    text-decoration: none;
+    float: right;
+    text-transform: uppercase;
+    left: 0px;
+    top: 38px;
+    position: relative;   
+}
+
+
+.titulo-Beneficio h2 {
+    height: 65px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 10px 0 5px 15px;
+    width: 50%;
+    text-transform: none;
+    font-weight: 600;
+}
+
+.textRegioes{
+    font-family: Open Sans,sans-serif;
+    color: #396aa0;
+    font-weight: 400;
+    text-transform: none;
+    padding-left: 5px;
+    font-size: 16px;
+}
+
+#formataTextoFranquia{
+ font-family: Open Sans,sans-serif;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: justify;
+    padding-top: 20px;
+}
+
+.home-page #franquia_master {
+    margin-bottom: 80px;
+    margin-top: 30px;
+}
+    
+.menu_linha:hover{
+ color: #2a6496;
+    text-decoration: underline;
+    padding: 0;
+    border: 1px solid #396aa0;
+    border-width: 0 0 1px;   
+}
+  .tituloFranquia{
+         font-size: 35px;
+    line-height: 45px;
+    text-transform: none;
+    color: #fff;
+    font-family: Open Sans,sans-serif;
+    font-weight: 600;   
+    }
+
+#videoFranquia{
+ background-color: #396aa0;   
+}
+
+#servicos .servicos .legenda {
+    background-color: rgba(0,0,0,.6);
+    margin-top: -45px;
+    margin-bottom: 15px;
+    z-index: 2;
+    position: relative;
+    transition: all .3s ease;
+}
+
+#servicos .servicos .legenda:hover{
+background-color: grey;   
+}
+
+    
+
+.home-page #servicos .servicos .legenda p {
+    margin: 0;
+    padding: 10px;
+    color: #fff;
+}
+
+#servicos .servicos .esp-text {
+    text-align: right;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 0;
+}
+
+#mobile-social{
+    padding: 20px 0;   
+}
+
+#mobile {
+    margin-left: 18px;
+    }
+
+.menu_linha a{
+	background: #000000;
+	float: left;
+	font-family: segoe UI;
+	color: #ffffff;
+	width: 30px;
+	height: 31px;
+	text-decoration: none;
+	display: block;
+margin-top: -8px;
+		text-align: center;
+	line-height: 35px;	
+}
+
+.menu_linha a:hover {
+	background: #3C43C9;
+	text-decoration:none;
+	transition: all 1s ease;
+}
+
+#servicos.row{
+padding-top: 80px;    
+    margin: 0;
+}
+
+.titulo-Beneficio{
+     padding: 0;
+    border: 1px solid #396aa0;
+    border-width: 0 0 3px; 
+      
+}
+
+.titulo-servico{
+     padding: 0;
+    border: 1px solid #396aa0;
+    border-width: 0 0 3px; 
+      
+}
+.titulo-servico h2{
+ height: 65px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 10px 0 5px 15px;
+    width: 40%;
+    text-transform: none;
+    font-weight: 600;   
+}
+
+.sub-titulo-servico h2{
+ height: 65px;
+ font-size: 35px;
+ color:#396aa0;
+ margin: 0;
+ padding: 4px;
+ width: 100%;
+ text-transform: none;
+ font-weight: 600;
+}
+
+
+
+
+.bx-wrapper .bx-prev {
+    right: 40px;
+    background-image: url(../img/sliderSetaEsquerda.png);
+}
+
+#carousel-example-generi{
+ display: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 6px 0px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+#myCarousel .thumbnail {
+	margin-bottom: 0;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image:none !important;
+}
+.carousel-control {
+	color:#fff;
+	top:40%;
+	color:#428BCA;
+	bottom:auto;
+	padding-top:4px;
+	width:30px;
+	height:30px;
+	text-shadow:none;
+	opacity:1;
+}
+.carousel-control:hover {
+	color: #d9534f;
+}
+.carousel-control.left, .carousel-control.right {
+	background-image:none !important;
+}
+.carousel-control.right {
+	left:auto;
+	right:-32px;
+}
+.carousel-control.left {
+	right:auto;
+	left:-32px;
+}
+
+.carousel-indicators {
+	bottom:-30px;
+}
+.carousel-indicators li {
+	border-radius:0;
+	width:10px;
+	height:10px;
+	background:#ccc;
+	border:1px solid #ccc;
+}
+.carousel-indicators .active {
+	width:12px;
+	height:12px;
+	background:#3276b1;
+	border-color:#3276b1;
+}
+
+    #carousel-example{
+ display: none;
+}
+
+@media screen and (max-width: 359px) {
+  
+    #carousel-example-generi{
+ display: block;
+}
+    
+    #carousel-example-generic{
+ display: none;
+}
+    
+    .titulo-servico{
+     padding: 0px;
+    border: 0px;
+    border-width: 0 0 0px; 
+      
+}
+    .titulo-servico h2{
+ height: 115px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 20px 0 5px 15px;
+    width: 100%;
+    text-transform: none;
+    font-weight: 600;   
+  text-align: center;
+}
+    
+       .titulo-Beneficio h2{
+ height: 115px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 20px 0 5px 15px;
+    width: 100%;
+    text-transform: none;
+    font-weight: 600;   
+  text-align: center;
+}
+   
+    #mobile {
+	margin-left:0px;
+}
+     #mobile-banner {
+	
+}
+    
+#mobile-social{
+ margin-bottom: -29px;  
+}
+  
+  
+    
+    #formataTextoFranquia p{
+     font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 30px;
+    text-align: justify;   
+    }
+    
+    .sub-titulo-servico h2{
+ text-align: center;
+        width: 100%;
+}
+#servicos.row{
+margin: 0;   
+    
+}
+    
+}
+
+@media screen and (max-width:360px){
+ .espacoBlog{
+     margin-top: 378px;   
+    }   
+}
+
+@media screen and (min-width:361px) and (max-width:767px){
+ .espacoBlog{
+     margin-top: 310px;   
+    }  
+}
+
+@media screen and (min-width: 360px) and (max-width:767px) {
+  .esconde{
+   display: none;
+  }
+     
+       
+    #escondeBlog{
+     display: none;   
+    }
+    
+    
+       #carousel-example-generi{
+ display: block;
+}
+    
+    #azul{
+     padding-top: 40px;   
+    }
+    
+    #mobileFranquiaMaster{
+     width: 95%;
+        margin-left: auto;
+        margin-right:auto;
+    }
+    
+    #carousel-example-generic{
+ display: none;
+}
+    
+    .titulo-servico{
+     padding: 0px;
+    border: 0px;
+    border-width: 0 0 0px; 
+      
+}
+    .titulo-servico h2{
+ height: 65px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 15px  2px 15px;
+    width: 100%;
+    text-transform: none;
+    font-weight: 600;   
+  text-align: center;
+}
+    .titulo-Beneficio h2{
+ height: 115px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 20px 2px 15px;
+    width: 100%;
+    text-transform: none;
+    font-weight: 600;
+    text-align: center;
+}
+   
+   
+    #mobile {
+	margin-left:0px;
+}
+     #mobile-banner {
+	
+}   
+    
+#mobile-social{
+ margin-bottom: -29px;  
+}
+    
+    .sub-titulo-servico h2{
+ text-align: center;
+        width: 100%;
+}
+#servicos.row{
+margin: 0;   
+
+}
+    .back-mulher{
+     background-image: none;   
+    }
+    
+    .alinhar-back {
+    max-width: 326px;
+    text-align: center;
+    margin: 0 auto;
+}
+    
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px){
+  .icone1 {
+	display: none;
+}
+    
+    .espacoBlog{
+     padding-top: 120px;   
+    }
+    
+     #escondeBlog{
+     display: none;   
+    }
+    
+    .back-mulher{
+ background-image: none;   
+}
+    
+       #carousel-example-generi{
+ display: none;
+}
+    #carousel-example-generic{
+ display: none;
+}
+        #carousel-example{
+ display: block;
+}
+    .titulo-servico h2{
+    height: 65px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 16px 0 5px 15px;
+    width: 100%;
+    text-transform: none;
+    font-weight: 600;   
+  text-align: center;
+}
+    
+      .titulo-Beneficio h2{
+    height: 65px;
+    font-size: 35px;
+    color: #fff;
+    background-color: #396aa0;
+    margin: 0;
+    padding: 16px 0 5px 15px;
+    width: 100%;
+    text-transform: none;
+    font-weight: 600;   
+  text-align: center;
+}
+    
+    
+        .sub-titulo-servico h2{
+ text-align: center;
+        width: 100%;
+}
+    
+    
+    
+}
+
+
+@media screen and (min-width: 992px){
+    
+     #ajustarVideo.col-lg-6{
+     width:50%;  
+    }
+    
+    
+    
+}
+
